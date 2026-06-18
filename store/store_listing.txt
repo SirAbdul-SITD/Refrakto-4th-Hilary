@@ -1,0 +1,40 @@
+═══════════════════════════════════════════
+REFRAKTO — PLAY STORE LISTING
+com.hilaryapps.refrakto
+═══════════════════════════════════════════
+
+APP TITLE (max 50 chars):
+Refrakto: Laser Align Puzzle
+
+SHORT DESCRIPTION (max 80 chars):
+Rotate the emitters so every colored beam reaches its matching target! 150 lvls
+
+FULL DESCRIPTION:
+🔆 AIM. REFLECT. ALIGN. 🔆
+
+Each emitter fires a colored laser. Rotate it to point in the right direction so its beam — bouncing off mirrors, blocked by walls — lands on the target of the same color. Light up every target to win.
+
+🎯 HOW TO PLAY
+• Tap an emitter to rotate its beam (up → right → down → left)
+• Beams reflect off angled mirrors and stop at walls
+• Match each colored beam to its same-colored target
+• Light every target to complete the level
+
+✨ FEATURES
+• 150 levels: 5×5, 6×6 and 7×7 grids with 1–3 beams
+• Every puzzle is guaranteed solvable — built from a real beam layout
+• Live beam tracing updates the instant you rotate
+• Mirrors and walls add bounce-and-block routing
+• Sleek neon visuals and an immersive ambient soundtrack
+• Haptic feedback
+• 100% offline, no ads, no purchases, zero data collection
+
+🧠 PURE OPTICAL DEDUCTION
+With multiple beams crossing one grid, lighting one target can block another. Read the bounces, plan the angles, and snap every laser home.
+
+Aim the light. Align them all. 🔆
+
+CATEGORY: Games > Puzzle
+CONTENT RATING: Everyone
+PRICE: Free
+TAGS: laser, beam, mirror, reflection, light, puzzle, logic, align, optics, brain
